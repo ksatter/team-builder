@@ -1,3 +1,7 @@
+.DS_STORE
+
 *.yml
 !team_config.yml
 test.csv
+
+
